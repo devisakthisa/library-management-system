@@ -1,0 +1,14 @@
+Library Management System
+
+Increment 1 – Basic Features
+
+- Create the home page.
+- Display the list of books.
+- Add a search books option.
+
+Increment 2 – Advanced Features
+
+- Add a borrow book option.
+- Add a return book option.
+- Display available books.
+- Test the application.

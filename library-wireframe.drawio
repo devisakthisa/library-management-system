@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="HB6XG6q1-Vm84SZTrLqL">
+    <mxGraphModel dx="774" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d8mNb9Po5nREnLF41sgv-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="350" width="407.5" x="302.5" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d8mNb9Po5nREnLF41sgv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Library Management System&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="340" x="330" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d8mNb9Po5nREnLF41sgv-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Search Books" vertex="1">
+          <mxGeometry height="40" width="255" x="375" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="d8mNb9Po5nREnLF41sgv-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="View Books" vertex="1">
+          <mxGeometry height="40" width="180" x="410" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="d8mNb9Po5nREnLF41sgv-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Borrow Book" vertex="1">
+          <mxGeometry height="40" width="180" x="412.5" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="d8mNb9Po5nREnLF41sgv-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Return Book" vertex="1">
+          <mxGeometry height="40" width="180" x="412.5" y="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
